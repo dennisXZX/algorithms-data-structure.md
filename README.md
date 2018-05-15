@@ -1,4 +1,2 @@
-## Algorithms and data structures
-
-#### Linked list
+## Grokking Algorithms Notes
 
